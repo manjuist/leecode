@@ -1,0 +1,26 @@
+{
+  "name": "leecode",
+  "version": "1.0.0",
+  "description": "leecode",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manjuist/leecode.git"
+  },
+  "keywords": [
+    "leecode"
+  ],
+  "author": "Deve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manjuist/leecode/issues"
+  },
+  "homepage": "https://github.com/manjuist/leecode#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "26.6.3"
+  }
+}
